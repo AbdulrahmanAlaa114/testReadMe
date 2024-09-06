@@ -4,6 +4,11 @@
   <img src="Images/appstore.png" alt="Screenshot" width="150"/>
 </p>
 
+<p align="center" style="display: flex; gap: 10px;">
+<img src="Images/screen.gif" width="375" height="812" />
+<img src="Images/screen2.gif" width="375" height="812" />
+</p>
+
 ## Overview
 
 **Bug It** is an iOS application developed using Swift and SwiftUI for tracking and managing bugs. The app allows users to capture screenshots and provide descriptions for bug reports. These reports are then stored in Google Sheets and can also receive images from other apps for bug creation.
