@@ -13,7 +13,7 @@
 - **Data Management**: Utilizes SwiftData or UserDefaults for storing bug data, depending on iOS version.
 - **User-Friendly Interface**: Designed with SwiftUI for a smooth and visually appealing user experience.
 - **Bug Submission**: Users can capture screenshots or select images from their device's gallery and provide descriptions.
-- **Data Storage**: Bug reports are stored in Google Sheets or Notion. Each day has its own sheet/tab for organization.
+- **Data Storage**: Bug reports are stored in Google Sheets. Each day has its own sheet/tab for organization.
 - **Image Handling**: Supports receiving images from other apps to create bug reports.
 - **Share Extension**: Allows sharing bug-related data from other apps directly into the Bug It app.
 
